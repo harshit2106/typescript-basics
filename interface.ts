@@ -13,7 +13,7 @@ user={
     name:"harshit",
     greet(phrase){
         console.log(phrase+" "+this.name);        
-    }
+    },
 }
 
 user.greet("hi")
